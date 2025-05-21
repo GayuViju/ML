@@ -24,8 +24,8 @@ The dataset contains different features of wine, such as acidity, sugar, and chl
 4. Interpret the results as "Safe" or "Unsafe" based on predicted quality.
 
 ## Results
-- Accuracy: Around 65%
-- Mean Squared Error: Around 0.5
+- Accuracy: Around 85%
+- Mean Squared Error: Around 0.145
 
 ## Tools and Libraries
 - Python
