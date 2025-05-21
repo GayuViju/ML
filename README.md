@@ -30,8 +30,9 @@ The dataset contains different features of wine, such as acidity, sugar, and chl
 ## Tools and Libraries
 - Python
 - Pandas
+- Numpy
 - Scikit-learn
-- Matplotlib (optional for visualization)
+- Matplotlib and Seaborn (optional for visualization)
 
 ## How to Run
 - Open the Jupyter notebook or Python script or google colab.
